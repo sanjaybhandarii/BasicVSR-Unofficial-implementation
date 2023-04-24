@@ -16,7 +16,7 @@ This project is unofficial implementation of BasicVSR. BasicVSR is designed for 
 
 The BasicVSR technique involves training a deep convolutional neural network on a large dataset of low-resolution and high-resolution video pairs. During training, the network learns to use the temporal and spatial connections between frames to map low-resolution video to high-resolution video. The algorithm includes a recursive structure that allows for iterative refinement, and it's guided by four core functions: Propagation, Alignment, Aggregation, and Upsampling. BasicVSR utilizes existing components with minor modifications, resulting in improved restoration quality and speed compared to other state-of-the-art algorithms.
 
-The algorithm used for this project is as shown in figure :
+The architecture used in BasicVSR is as shown in figure :
 
 <p align="center"><img src="assets/algo.jpg" width="600"/></p>
 
