@@ -1,13 +1,9 @@
 # BasicVSR Unofficial implementation 
 Based on [BasicVSR](https://arxiv.org/abs/2012.02181) by Kelvin C.K. Chan, Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy
 
-High Resolution Image:
 
-<p align="center"><img src="assets/hr/a.jpg" width="400"/></p>
+<p align="center"><img src="assets/image.png" width="400"/></p>
 
-Low Resolution Image:
-
-<p align="center"><img src="assets/lr/a.jpg" width="400"/></p>
 
 ## Description
 
@@ -18,7 +14,7 @@ The BasicVSR technique involves training a deep convolutional neural network on 
 
 The architecture used in BasicVSR is as shown in figure :
 
-<p align="center"><img src="assets/algo.jpg" width="600"/></p>
+<p align="center"><img src="assets/architecture.jpg" width="600"/></p>
 
 
 
@@ -52,3 +48,4 @@ Then,to run the project code:
 
 1. [BasicVSR](https://arxiv.org/abs/2012.02181)
 2. [MMedit](https://github.com/open-mmlab/mmediting/blob/master/mmedit/models/backbones/sr_backbones/basicvsr_net.py)
+3. Kaggle notebook: [cookiemonsteryum](https://www.kaggle.com/code/cookiemonsteryum/basicvsr)
