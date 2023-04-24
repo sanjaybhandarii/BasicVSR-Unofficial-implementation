@@ -28,14 +28,14 @@ The architecture used in BasicVSR is as shown in figure :
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/sanjaybhandarii/Second-order-Image-Degradation-based-on-RealBasicVSR
+git clone https://github.com/sanjaybhandarii/BasicVSR-Unofficial-implementation
 ```
 2. Requirement:
 
 The requirements are listed in requirements.txt.
 To install the requirements:
 
-    cd Second-order-Image-Degradation-based-on-RealBasicVSR
+    cd BasicVSR-Unofficial-implementation
     pip install requirements.txt
     
 
