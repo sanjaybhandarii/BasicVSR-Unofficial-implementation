@@ -32,7 +32,7 @@ The requirements are listed in requirements.txt.
 To install the requirements:
 
     cd BasicVSR-Unofficial-implementation
-    pip install requirements.txt
+    pip install -r requirements.txt
     
 
 ## Usage
